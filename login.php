@@ -1,3 +1,6 @@
+<!-- TEST GIT -->
+<!-- TEST GIT -->
+
 <?php 
 	require_once('_functions.php');
 ?>
