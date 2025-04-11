@@ -129,6 +129,7 @@
 		<p>&copy; Er4files <span id="tahun"></span> All Rights Reserved.</p>
 		<script>
 		// mengambil tanggal hari ini
+		// mengambil tanggal hari ini
 		var now = new Date();
 		var tahun = now.getFullYear();
 		// menampilkan tahun di dalam elemen HTML
